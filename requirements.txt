@@ -1,0 +1,11 @@
+# Core
+cerebrium==1.2.0
+torch==2.0.1+cu117      # CUDA 11.7 compatible
+
+# Hugging Face Ecosystem
+transformers==4.30.2
+pillow==9.5.0            # Image processing
+
+# Utilities
+numpy==1.24.3
+requests==2.28.2         # For testing
