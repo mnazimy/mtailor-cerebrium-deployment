@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Secrets
+.env
+*.key
+
+# Large files
+*.pth
+*.bin
