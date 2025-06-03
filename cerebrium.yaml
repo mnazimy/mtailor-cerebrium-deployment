@@ -1,0 +1,9 @@
+# Cerebrium Configuration
+# Project: M-Tailor Image Classifier
+compute:
+  gpu: T4                
+  memory: 8Gi            
+  concurrency: 10        
+python_version: "3.8"    
+environment_variables:
+  LOG_LEVEL: "INFO"     
